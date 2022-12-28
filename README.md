@@ -1,3 +1,3 @@
 # Stroke_prediction-main
  
-https://stroke--project-api.herokuapp.com/
+https://stroke-disease.onrender.com/
